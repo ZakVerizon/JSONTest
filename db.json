@@ -3,6 +3,6 @@
     { "skillId": "4220384", "skillName": "800 Agent (English)", "longestQueueDurHMS": "01:23:09", "centerClosed": "FALSE"},
     { "skillId": "4220385", "skillName": "800 Agent (Spanish)", "longestQueueDurHMS": "00:38:42", "centerClosed": "FALSE"},
     { "skillId": "4220386", "skillName": "800 Support (English)", "longestQueueDurHMS": "00:49:13", "centerClosed": "FALSE"},
-    { "skillId": "4220387", "skillName": "800 Support (Spanish)", "longestQueueDurHMS": "02:14:55", "centerClosed": "FALSE"},
+    { "skillId": "4220387", "skillName": "800 Support (Spanish)", "longestQueueDurHMS": "02:14:55", "centerClosed": "FALSE"}
     ]
 }
