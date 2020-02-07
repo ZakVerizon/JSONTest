@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Message to Dan" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "LongestWaitTime": [
+    { "skillId": "4220384", "skillName": "800 Agent (English)", "longestQueueDurHMS": "01:23:09", "centerClosed": "FALSE"},
+    { "skillId": "4220385", "skillName": "800 Agent (Spanish)", "longestQueueDurHMS": "00:38:42", "centerClosed": "FALSE"},
+    { "skillId": "4220386", "skillName": "800 Support (English)", "longestQueueDurHMS": "00:49:13", "centerClosed": "FALSE"},
+    { "skillId": "4220387", "skillName": "800 Support (Spanish)", "longestQueueDurHMS": "02:14:55", "centerClosed": "FALSE"},
+    ]
 }
